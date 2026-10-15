@@ -263,7 +263,7 @@ export const TransportMap: React.FC<TransportMapProps> = ({
 
       {/* Top Banner Notice: Simulated Campus Mobility Network */}
       <div className="absolute top-3 left-3 z-10 flex items-center gap-2 bg-slate-900/90 text-white px-3 py-1.5 rounded-lg shadow-md backdrop-blur-sm border border-slate-700 text-xs font-medium">
-        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+        <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
         <span>Simulated Campus Transit Model — CIATR Chennai Campus (OMR Corridor)</span>
         <span className="text-[10px] bg-slate-800 text-slate-300 px-1.5 py-0.5 rounded border border-slate-600">Synthetic GPS</span>
       </div>
